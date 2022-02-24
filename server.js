@@ -1,5 +1,5 @@
 //require dependencies
-import * as coin from "../a02-brendanmerritt1/modules/coin.mjs"
+import * as coin from './coin.mjs'
 import express from 'express';
 import Yargs from 'yargs';
 
